@@ -7,9 +7,7 @@
 - ⚡ Fun fact: I'm currently  in year 1/3 of my second bachelor's degree!
 
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/andreanunoo)
-
-
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andreanunoo/)
 
   
 ### Probably Listening To — Spotify 🎧
