@@ -7,4 +7,4 @@
 - ⚡ Fun fact: I'm currently  in year 1/3 of my second bachelor's degree!
 - 
 ### Probaby Listening To — Spotify 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wgvbhv5ht546sf3fmch4lwq24m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31wgvbhv5ht546sf3fmch4lwq24m&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wgvbhv5ht546sf3fmch4lwq24m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]([https://spotify-github-profile.vercel.app/api/view?uid=31wgvbhv5ht546sf3fmch4lwq24m&redirect=true](https://open.spotify.com/search/akmu%20nakka))
