@@ -12,5 +12,5 @@
 
 
   
-### Probaby Listening To — Spotify 🎧
+### Probably Listening To — Spotify 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wgvbhv5ht546sf3fmch4lwq24m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31wgvbhv5ht546sf3fmch4lwq24m&redirect=true)
