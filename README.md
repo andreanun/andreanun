@@ -5,7 +5,9 @@
 - 📫 How to reach me: Feel free to connect with me on LinkedIn and kindly send me a message 📭
 - 💬 Ask me about Music (all genres, any decade), Photography, hidden gems in the city 👀 
 - ⚡ Fun fact: I'm currently  in year 1/3 of my second bachelor's degree!
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/andreanunoo)
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/andreanunoo)
 
 
 
