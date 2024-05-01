@@ -13,4 +13,4 @@
 
   
 ### Probaby Listening To — Spotify 🎧
-[![spotify-github-profile]([https://spotify-github-profile.vercel.app/api/view?uid=31wgvbhv5ht546sf3fmch4lwq24m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr?si=73870704ad684bcf)](https://spotify-github-profile.vercel.app/api/view?uid=31wgvbhv5ht546sf3fmch4lwq24m&redirect=true)
+[![spotify-github-profile]([https://spotify-github-profile.vercel.app/api/view?uid=31wgvbhv5ht546sf3fmch4lwq24m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false](https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr?si=1c0d42706c1d4e27))](https://spotify-github-profile.vercel.app/api/view?uid=31wgvbhv5ht546sf3fmch4lwq24m&redirect=true)
