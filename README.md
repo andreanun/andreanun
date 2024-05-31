@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my first personal and full stack project!!
-- 🌱 I’m currently learning intermediate java, self-teaching python, web development and the Spring framework
-- 📫 How to reach me: Feel free to connect with me on LinkedIn and kindly send me a message 📭
-- 💬 Ask me about Music (most genres, any decade), Photography, hidden gems in the city 👀 
-- ⚡ Fun fact: I'm currently  in year 1/3 of my second bachelor's degree!
+- 🌱 I’m currently learning: intermediate java, Full Stack Web Development, python, Django and the Spring framework
+- 🎓 I have a great interest in Software engineering, specifically backend or full stack 
+- 📫 How to reach me: Feel free to email or connect with me on LinkedIn and kindly send me a message 📭
+- 💬 Ask me about Music (most genres, any decade), Photography, K-variety shows, hidden gems in the city 👀 
+- ⚡ Fun fact: I'm currently in pursuit my second bachelor's degree (CS) !
 
 
    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andreanunoo/)
