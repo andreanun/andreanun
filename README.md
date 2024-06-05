@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a few personal full stack projects. Stay tuned!!
+- 🔭 I’m currently working on a few personal frontend and full stack projects. Stay tuned!!
 - 🌱 I’m currently learning: intermediate java, Full Stack Web Development, python, Django and the Spring framework
 - 🎓 I have a great interest in Software engineering, specifically backend or full stack 
 - 📫 How to reach me: Feel free to email or connect with me on LinkedIn and kindly send me a message 📭
