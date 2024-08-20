@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a few personal frontend and full stack projects. Stay tuned!!
 - 🌱 I’m currently learning: intermediate java, Full Stack Web Development, python, Django and the Spring framework
-- 🎓 I have a great interest in Software engineering, specifically backend or full stack 
+- 🎓 I have a great interest in Software engineering, specifically backend or full stack web dev
 - 📫 How to reach me: Feel free to email or connect with me on LinkedIn and kindly send me a message 📭
 - 💬 Ask me about Music (most genres, any decade), Photography, K-variety shows, hidden gems in the city 👀 
 - ⚡ Fun fact: I'm currently in pursuit my second bachelor's degree (CS) !
