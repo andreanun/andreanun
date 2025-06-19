@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- Currently grinding react-formula by Alvin, The Odin Project, and leetcode(😪)
 - 🔭 I’m currently working on a few personal frontend and full stack projects. Stay tuned!!
 - 🌱 I’m currently learning: intermediate java, Full Stack Web Development, python, Django and the Spring framework
 - 🎓 I have a great interest in Software engineering, specifically backend or full stack web dev
